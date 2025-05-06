@@ -1,0 +1,14 @@
+:root {
+
+--cor0pricipal: #6E859F;
+--cor-secundARIA: #284260;
+--cor-deataque: #C92BFC;
+}
+body {
+    font-family: 'Chakra Petch', sans-serif;
+color: var (--cor-principal);
+margin: 2rem;
+}
+h1, h2, h3{
+    color: var()
+}
